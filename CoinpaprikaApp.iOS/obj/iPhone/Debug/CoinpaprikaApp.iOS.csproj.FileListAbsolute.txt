@@ -1,0 +1,8 @@
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\CoinpaprikaApp.iOS.csproj.AssemblyReference.cache
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp.iOS\obj\iPhone\Debug\CoinpaprikaApp.iOS.csproj.CoreCompileInputs.cache

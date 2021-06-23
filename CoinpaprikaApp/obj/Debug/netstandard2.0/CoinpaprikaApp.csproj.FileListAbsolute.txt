@@ -1,0 +1,16 @@
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\bin\Debug\netstandard2.0\CoinpaprikaApp.deps.json
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\bin\Debug\netstandard2.0\CoinpaprikaApp.dll
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\bin\Debug\netstandard2.0\ref\CoinpaprikaApp.dll
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\bin\Debug\netstandard2.0\CoinpaprikaApp.pdb
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\CoinpaprikaApp.csproj.AssemblyReference.cache
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\CoinView.xaml.g.cs
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\UserView.xaml.g.cs
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\CoinpaprikaApp.AssemblyInfoInputs.cache
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\CoinpaprikaApp.AssemblyInfo.cs
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\CoinpaprikaApp.csproj.CoreCompileInputs.cache
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\CoinpaprikaApp.dll
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\ref\CoinpaprikaApp.dll
+C:\Users\TIM\source\repos\CoinpaprikaApp\CoinpaprikaApp\obj\Debug\netstandard2.0\CoinpaprikaApp.pdb

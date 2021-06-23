@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CoinpaprikaApp.CoinView">
+	
+	<NavigationPage.TitleView>
+		<StackLayout Orientation="Horizontal">
+			<Label Text="Coin Watch" 
+				   FontSize="Large" 
+				   HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"></Label>
+			<Button Text="Favorites"
+					FontSize="Small"
+					Clicked="accountClicked"
+					HorizontalOptions="End"/>
+		</StackLayout>
+	</NavigationPage.TitleView>
+
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="20"/>
+			<ColumnDefinition Width="100"/>
+			<ColumnDefinition Width="45"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="50"/>
+			<RowDefinition Height="50"/>
+			<RowDefinition Height="20"/>
+			<RowDefinition Height="20"/>
+			<RowDefinition Height="20"/>
+			<RowDefinition Height="200"/>
+			<RowDefinition Height="50"/>
+			<RowDefinition Height="20"/>
+			<RowDefinition Height="20"/>
+		</Grid.RowDefinitions>
+		<Label x:Name="rank"
+			Grid.Column="0" Grid.Row="0"></Label>
+		<Label x:Name="name"
+			   FontSize="Large"
+			Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="3"></Label>
+		<Label x:Name="symbol"
+			Grid.Column="3" Grid.Row="0" Grid.ColumnSpan="2"></Label>
+
+		<Label x:Name="active"
+			Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2"></Label>
+		<Button Text="Add to Favorites"
+				Clicked="addToFavoritesClicked"
+				BackgroundColor="Green"
+				TextColor="Black"
+				Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="3"></Button>
+
+		<Label x:Name="open"
+			Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2"></Label>
+		<Label x:Name="close"
+			Grid.Column="3" Grid.Row="2" Grid.ColumnSpan="2"></Label>
+		
+		<Label x:Name="high"
+			Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2"></Label>
+		<Label x:Name="low"
+			Grid.Column="3" Grid.Row="3" Grid.ColumnSpan="2"></Label>
+
+		<Label x:Name="volume"
+			Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="3"></Label>
+		<Label x:Name="marketCap"
+			Grid.Column="3" Grid.Row="4" Grid.ColumnSpan="2"></Label>
+
+		<Label x:Name="description"
+			Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="5" Grid.RowSpan="3"></Label>
+		
+		<Label x:Name="proof"
+			Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="5"></Label>
+
+		<Label x:Name="org"
+			Grid.Column="0" Grid.Row="7" Grid.ColumnSpan="5"></Label>
+
+		<Label x:Name="first"
+			Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="3"></Label>
+		<Label x:Name="last"
+			Grid.Column="3" Grid.Row="9" Grid.ColumnSpan="2"></Label>
+
+	</Grid>
+	
+</ContentPage>
